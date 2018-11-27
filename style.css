@@ -1,0 +1,26 @@
+
+ body {
+  background-color:lightblue;
+  font-family:open-sans,sans-serif;
+ }
+
+ h1 {
+  font-weight: bolder;
+ }
+
+ h2 {
+   font-weight: bold;
+ }
+
+ p {
+   font-size: 20px;
+ }
+
+ .menu{
+   display:flex;
+   list-style:none;
+  }
+
+  .menu li{
+    margin-right: 50px;
+  }
