@@ -17,8 +17,8 @@ table, td, th {
   border: 1px solid black;
 }
 
-th {
-  font-weight: bold;
+.headertable {
+  font-weight: bolder;
 }
 
 h1 {
